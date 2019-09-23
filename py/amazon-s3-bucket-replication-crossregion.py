@@ -1,0 +1,1 @@
+#Configure the Cross Region Replication for S3 Bucket
